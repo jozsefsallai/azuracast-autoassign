@@ -1,0 +1,6 @@
+{
+  "key": "Your AzuraCast API key",
+  "host": "Your AzuraCast API host URL",
+  "stationId": 1,
+  "playlistId": 1
+}

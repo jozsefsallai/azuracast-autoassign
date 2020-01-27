@@ -1,0 +1,11 @@
+{
+  "name": "azuracast-autoassign",
+  "version": "1.0.0",
+  "description": "Node.js script to automatically assign files without an assigned playlist to a pre-defined playlist.",
+  "main": "run.js",
+  "author": "@jozsefsallai",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
